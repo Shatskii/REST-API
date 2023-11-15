@@ -3,3 +3,4 @@
    http://localhost:8080/api/tasks?date=yyyy.MM.dd-yyyy.MM.dd&status=boolean,
    например: http://localhost:8080/api/tasks?date=2020.01.01&status=true
              http://localhost:8080/api/tasks?date=2020.01.01-2020.01.07&status=false.
+2. Для удобства просмотра проекта оставляю ссылку на github: https://github.com/Shatskii/REST-API
